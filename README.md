@@ -11,4 +11,9 @@ Aplikasi ini memberikan kemudahan dalam mengatur pembelian dan penjualan barang.
 - pembelian barang akan menambah stok
 
 ## Diagram
-![erd]()
+![erd](https://github.com/Aeidi77/AEIDI-MUTTAQIN/blob/master/ERD.bmp)
+
+## Tech Stack
+- Framework Tampilan : Guna.UI2
+- Backend  : C#, SqlConnector
+- DB  : MySql
